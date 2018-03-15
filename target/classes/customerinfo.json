@@ -1,0 +1,30 @@
+[
+	{
+		"customerId" : "C1",
+		"customerName" : "Customer 1",
+		"customerAddress" : "Kronprinzenstraße 88, 40217 Düsseldorf",
+		"customerLongitude" : "6.770106",
+		"customerLatitude" : "51.211905"
+	},
+	{
+		"customerId" : "C2",
+		"customerName" : "Customer 2",
+		"customerAddress" : "Kaiserstraße 2, 40479 Düsseldorf",
+		"customerLongitude" : "6.778411",
+		"customerLatitude" : "51.235362"
+	},
+	{
+		"customerId" : "C3",
+		"customerName" : "Customer 3",
+		"customerAddress" : "Wildenbruchstraße 2, 40545 Düsseldorf",
+		"customerLongitude" : "6.759980",
+		"customerLatitude" : "51.227799"
+	},
+	{
+		"customerId" : "C4",
+		"customerName" : "Customer 4",
+		"customerAddress" : "Schlesische Straße 5, 40231 Düsseldorf",
+		"customerLongitude" : "6.831102",
+		"customerLatitude" : "51.208274"
+	}
+]

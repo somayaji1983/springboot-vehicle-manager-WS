@@ -1,0 +1,19 @@
+[
+	{
+		"droneId" : "d1",
+		"droneStationId" : "station1_hanger1",
+		"droneStationAddress" : "Metrostrasse 12, 40235 Düsseldorf",
+		"droneStationLongitude" : "6.825700",
+		"droneStationLatitude" : "51.234880",
+		"droneSpeedKmph" : "60"
+	},
+	{
+		"droneId" : "d2",
+		"droneStationId" : "station2_hanger1",
+		"droneStationAddress" : "Am Albertussee 1, 40549 Düsseldorf",
+		"droneStationLongitude" : "6.723957",
+		"droneStationLatitude" : "51.236680",
+		"droneSpeedKmph" : "60"
+	}
+
+]
